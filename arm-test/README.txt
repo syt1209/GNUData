@@ -8,6 +8,7 @@ ML_L/R_1	Moderately Dehydrated
 YZ_L/R_1	Normal
 VM_L/R_1	Dehydrated
 JM_L/R_1	Dehydrated
+HS_L/R_1  Dehydrated
 YZ_L/R_2	Normal
 ML_L/R_2	Normal
 SY_L/R_3	Dehydrated

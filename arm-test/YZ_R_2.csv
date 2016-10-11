@@ -1,5 +1,5 @@
-"Sequence Number",Count
-0,9523
+Time-Sec,Count,Age,Sex,Height,Weight,Hydration,Drinking,Water
+0,9523,??,1,??,??,2,0,0
 1,9526
 2,9533
 3,9540
